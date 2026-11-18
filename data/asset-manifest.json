@@ -1,0 +1,398 @@
+[
+  {
+    "id": "gift-logo",
+    "category": "branding",
+    "kind": "image",
+    "url": "https://top-autonomous-college-in-odisha.gift.edu.in/wp-content/uploads/2024/12/logo-896x1024.png",
+    "source_page": "https://top-autonomous-college-in-odisha.gift.edu.in/institute-logo/",
+    "local_path": "assets/branding/gift-logo.png",
+    "review": "Private prototype; confirm permission before public use"
+  },
+  {
+    "id": "gift-header",
+    "category": "branding",
+    "kind": "image",
+    "url": "https://top-autonomous-college-in-odisha.gift.edu.in/wp-content/uploads/2023/06/gift-header-banner.png",
+    "source_page": "https://top-autonomous-college-in-odisha.gift.edu.in/",
+    "local_path": "assets/branding/gift-header.png",
+    "review": "Private prototype; confirm permission before public use"
+  },
+  {
+    "id": "campus-main",
+    "category": "campus",
+    "kind": "image",
+    "url": "https://top-autonomous-college-in-odisha.gift.edu.in/wp-content/uploads/2023/06/gift-autonomous-college-bhubaneswar2-1.jpg",
+    "source_page": "https://top-autonomous-college-in-odisha.gift.edu.in/",
+    "local_path": "assets/campus/campus-main.jpg",
+    "review": "Private prototype; confirm permission before public use"
+  },
+  {
+    "id": "campus-sign-night",
+    "category": "campus",
+    "kind": "image",
+    "url": "https://top-autonomous-college-in-odisha.gift.edu.in/wp-content/uploads/2025/04/top-10-best-engineering-colleges-in-bhubaneswar.webp",
+    "source_page": "https://top-autonomous-college-in-odisha.gift.edu.in/",
+    "local_path": "assets/campus/campus-sign-night.webp",
+    "review": "Private prototype; confirm permission before public use"
+  },
+  {
+    "id": "campus-infrastructure",
+    "category": "campus",
+    "kind": "image",
+    "url": "https://top-autonomous-college-in-odisha.gift.edu.in/wp-content/uploads/2023/06/gift-college-bhubaneswar-1536x610-1.jpg",
+    "source_page": "https://top-autonomous-college-in-odisha.gift.edu.in/infrastructure/",
+    "local_path": "assets/campus/campus-infrastructure.jpg",
+    "review": "Private prototype; confirm permission before public use"
+  },
+  {
+    "id": "campus-legacy",
+    "category": "campus",
+    "kind": "image",
+    "url": "https://college.gift.edu.in/website/images/Picture31.webp",
+    "source_page": "https://college.gift.edu.in/website/",
+    "local_path": "assets/campus/campus-legacy.webp",
+    "review": "Private prototype; confirm permission before public use"
+  },
+  {
+    "id": "hostel",
+    "category": "campus",
+    "kind": "image",
+    "url": "https://top-autonomous-college-in-odisha.gift.edu.in/wp-content/uploads/2023/06/GIFT-engineering-college-in-campus-hostel.jpg",
+    "source_page": "https://top-autonomous-college-in-odisha.gift.edu.in/in-campus-hostels/",
+    "local_path": "assets/campus/hostel.jpg",
+    "review": "Private prototype; confirm permission before public use"
+  },
+  {
+    "id": "naac",
+    "category": "recognition",
+    "kind": "image",
+    "url": "https://top-autonomous-college-in-odisha.gift.edu.in/wp-content/uploads/2023/06/AGrade-GIFT-by-NAAC.webp",
+    "source_page": "https://top-autonomous-college-in-odisha.gift.edu.in/",
+    "local_path": "assets/recognition/naac.webp",
+    "review": "Verify current validity, scope and usage permission; historical where applicable"
+  },
+  {
+    "id": "nba",
+    "category": "recognition",
+    "kind": "image",
+    "url": "https://top-autonomous-college-in-odisha.gift.edu.in/wp-content/uploads/2023/06/Tier-2-GIFT-by-NBA-1.png",
+    "source_page": "https://top-autonomous-college-in-odisha.gift.edu.in/",
+    "local_path": "assets/recognition/nba.png",
+    "review": "Verify current validity, scope and usage permission; historical where applicable"
+  },
+  {
+    "id": "sae",
+    "category": "recognition",
+    "kind": "image",
+    "url": "https://top-autonomous-college-in-odisha.gift.edu.in/wp-content/uploads/2023/06/sae.png",
+    "source_page": "https://top-autonomous-college-in-odisha.gift.edu.in/",
+    "local_path": "assets/recognition/sae.png",
+    "review": "Verify current validity, scope and usage permission; historical where applicable"
+  },
+  {
+    "id": "aims",
+    "category": "recognition",
+    "kind": "image",
+    "url": "https://top-autonomous-college-in-odisha.gift.edu.in/wp-content/uploads/2023/06/aiims.png",
+    "source_page": "https://top-autonomous-college-in-odisha.gift.edu.in/",
+    "local_path": "assets/recognition/aims.png",
+    "review": "Verify current validity, scope and usage permission; historical where applicable"
+  },
+  {
+    "id": "nptel",
+    "category": "recognition",
+    "kind": "image",
+    "url": "https://top-autonomous-college-in-odisha.gift.edu.in/wp-content/uploads/2023/06/nptel.png",
+    "source_page": "https://top-autonomous-college-in-odisha.gift.edu.in/",
+    "local_path": "assets/recognition/nptel.png",
+    "review": "Verify current validity, scope and usage permission; historical where applicable"
+  },
+  {
+    "id": "iic",
+    "category": "recognition",
+    "kind": "image",
+    "url": "https://top-autonomous-college-in-odisha.gift.edu.in/wp-content/uploads/2023/06/iic.png",
+    "source_page": "https://top-autonomous-college-in-odisha.gift.edu.in/",
+    "local_path": "assets/recognition/iic.png",
+    "review": "Verify current validity, scope and usage permission; historical where applicable"
+  },
+  {
+    "id": "iso-historical",
+    "category": "recognition",
+    "kind": "image",
+    "url": "https://top-autonomous-college-in-odisha.gift.edu.in/wp-content/uploads/2023/06/iso-9001-2008-certified.png",
+    "source_page": "https://top-autonomous-college-in-odisha.gift.edu.in/",
+    "local_path": "assets/recognition/iso-historical.png",
+    "review": "Verify current validity, scope and usage permission; historical where applicable"
+  },
+  {
+    "id": "iit-bombay",
+    "category": "recognition",
+    "kind": "image",
+    "url": "https://top-autonomous-college-in-odisha.gift.edu.in/wp-content/uploads/2023/06/iit-bombay.png",
+    "source_page": "https://top-autonomous-college-in-odisha.gift.edu.in/",
+    "local_path": "assets/recognition/iit-bombay.png",
+    "review": "Verify current validity, scope and usage permission; historical where applicable"
+  },
+  {
+    "id": "iit-kharagpur",
+    "category": "recognition",
+    "kind": "image",
+    "url": "https://top-autonomous-college-in-odisha.gift.edu.in/wp-content/uploads/2023/06/iit-kharagpur.png",
+    "source_page": "https://top-autonomous-college-in-odisha.gift.edu.in/",
+    "local_path": "assets/recognition/iit-kharagpur.png",
+    "review": "Verify current validity, scope and usage permission; historical where applicable"
+  },
+  {
+    "id": "atal",
+    "category": "recognition",
+    "kind": "image",
+    "url": "https://top-autonomous-college-in-odisha.gift.edu.in/wp-content/uploads/2023/06/AICTE-training-and-learning-1.png",
+    "source_page": "https://top-autonomous-college-in-odisha.gift.edu.in/",
+    "local_path": "assets/recognition/atal.png",
+    "review": "Verify current validity, scope and usage permission; historical where applicable"
+  },
+  {
+    "id": "siro",
+    "category": "recognition",
+    "kind": "image",
+    "url": "https://top-autonomous-college-in-odisha.gift.edu.in/wp-content/uploads/2023/06/GIFT-SIRO-certified-engineering-college.webp",
+    "source_page": "https://top-autonomous-college-in-odisha.gift.edu.in/",
+    "local_path": "assets/recognition/siro.webp",
+    "review": "Verify current validity, scope and usage permission; historical where applicable"
+  },
+  {
+    "id": "iao",
+    "category": "recognition",
+    "kind": "image",
+    "url": "https://top-autonomous-college-in-odisha.gift.edu.in/wp-content/uploads/2023/06/GIFT-IAO-recognized.webp",
+    "source_page": "https://top-autonomous-college-in-odisha.gift.edu.in/",
+    "local_path": "assets/recognition/iao.webp",
+    "review": "Verify current validity, scope and usage permission; historical where applicable"
+  },
+  {
+    "id": "chairman-photo",
+    "category": "leadership",
+    "kind": "image",
+    "url": "https://top-autonomous-college-in-odisha.gift.edu.in/wp-content/uploads/2023/06/chairman-gift-dr-satya-prakash-panda.jpg",
+    "source_page": "https://top-autonomous-college-in-odisha.gift.edu.in/chairmans-message/",
+    "local_path": "assets/leadership/chairman-photo.jpg",
+    "review": "Verify current office holder and photo approval"
+  },
+  {
+    "id": "principal-photo",
+    "category": "leadership",
+    "kind": "image",
+    "url": "https://top-autonomous-college-in-odisha.gift.edu.in/wp-content/uploads/2026/09/sir_2_300x302.jpg",
+    "source_page": "https://top-autonomous-college-in-odisha.gift.edu.in/principals-message/",
+    "local_path": "assets/leadership/principal-photo.jpg",
+    "review": "Verify current office holder and photo approval"
+  },
+  {
+    "id": "btech",
+    "category": "programmes",
+    "kind": "image",
+    "url": "https://top-autonomous-college-in-odisha.gift.edu.in/wp-content/uploads/2023/07/b-tech.png",
+    "source_page": "https://top-autonomous-college-in-odisha.gift.edu.in/",
+    "local_path": "assets/programmes/btech.png",
+    "review": "Historical marketing graphic; prefer campus photo and new typography; check rights and dated text"
+  },
+  {
+    "id": "mba",
+    "category": "programmes",
+    "kind": "image",
+    "url": "https://top-autonomous-college-in-odisha.gift.edu.in/wp-content/uploads/2023/07/mba.jpg",
+    "source_page": "https://top-autonomous-college-in-odisha.gift.edu.in/",
+    "local_path": "assets/programmes/mba.jpg",
+    "review": "Historical marketing graphic; prefer campus photo and new typography; check rights and dated text"
+  },
+  {
+    "id": "mca",
+    "category": "programmes",
+    "kind": "image",
+    "url": "https://top-autonomous-college-in-odisha.gift.edu.in/wp-content/uploads/2023/07/master-of-computer-applications-cover-min.jpg",
+    "source_page": "https://top-autonomous-college-in-odisha.gift.edu.in/",
+    "local_path": "assets/programmes/mca.jpg",
+    "review": "Historical marketing graphic; prefer campus photo and new typography; check rights and dated text"
+  },
+  {
+    "id": "mtech",
+    "category": "programmes",
+    "kind": "image",
+    "url": "https://top-autonomous-college-in-odisha.gift.edu.in/wp-content/uploads/2023/07/can-i-do-m-tech-distance-learning-courses-from-iit-india.jpg",
+    "source_page": "https://top-autonomous-college-in-odisha.gift.edu.in/",
+    "local_path": "assets/programmes/mtech.jpg",
+    "review": "Historical marketing graphic; prefer campus photo and new typography; check rights and dated text"
+  },
+  {
+    "id": "diploma",
+    "category": "programmes",
+    "kind": "image",
+    "url": "https://top-autonomous-college-in-odisha.gift.edu.in/wp-content/uploads/2023/07/diploma.jpg",
+    "source_page": "https://top-autonomous-college-in-odisha.gift.edu.in/",
+    "local_path": "assets/programmes/diploma.jpg",
+    "review": "Historical marketing graphic; prefer campus photo and new typography; check rights and dated text"
+  },
+  {
+    "id": "phd",
+    "category": "programmes",
+    "kind": "image",
+    "url": "https://top-autonomous-college-in-odisha.gift.edu.in/wp-content/uploads/2023/06/phd.png",
+    "source_page": "https://top-autonomous-college-in-odisha.gift.edu.in/",
+    "local_path": "assets/programmes/phd.png",
+    "review": "Historical marketing graphic; prefer campus photo and new typography; check rights and dated text"
+  },
+  {
+    "id": "recruiter-board-1",
+    "category": "placements",
+    "kind": "image",
+    "url": "https://top-autonomous-college-in-odisha.gift.edu.in/wp-content/uploads/2023/06/1.jpg",
+    "source_page": "https://top-autonomous-college-in-odisha.gift.edu.in/",
+    "local_path": "assets/placements/recruiter-board-1.jpg",
+    "review": "Historical recruiter grid; verify partner names and logo permission"
+  },
+  {
+    "id": "recruiter-board-2",
+    "category": "placements",
+    "kind": "image",
+    "url": "https://top-autonomous-college-in-odisha.gift.edu.in/wp-content/uploads/2023/06/2-1.png",
+    "source_page": "https://top-autonomous-college-in-odisha.gift.edu.in/",
+    "local_path": "assets/placements/recruiter-board-2.png",
+    "review": "Historical recruiter grid; verify partner names and logo permission"
+  },
+  {
+    "id": "recruiter-board-3",
+    "category": "placements",
+    "kind": "image",
+    "url": "https://top-autonomous-college-in-odisha.gift.edu.in/wp-content/uploads/2023/06/3-1.png",
+    "source_page": "https://top-autonomous-college-in-odisha.gift.edu.in/",
+    "local_path": "assets/placements/recruiter-board-3.png",
+    "review": "Historical recruiter grid; verify partner names and logo permission"
+  },
+  {
+    "id": "solar-car",
+    "category": "achievements",
+    "kind": "image",
+    "url": "https://top-autonomous-college-in-odisha.gift.edu.in/wp-content/uploads/2023/06/a1.png",
+    "source_page": "https://top-autonomous-college-in-odisha.gift.edu.in/",
+    "local_path": "assets/achievements/solar-car.png",
+    "review": "Historical achievement photo; verify date, claims and permissions"
+  },
+  {
+    "id": "hackathon",
+    "category": "achievements",
+    "kind": "image",
+    "url": "https://top-autonomous-college-in-odisha.gift.edu.in/wp-content/uploads/2023/06/a2.png",
+    "source_page": "https://top-autonomous-college-in-odisha.gift.edu.in/",
+    "local_path": "assets/achievements/hackathon.png",
+    "review": "Historical achievement photo; verify date, claims and permissions"
+  },
+  {
+    "id": "conference",
+    "category": "achievements",
+    "kind": "image",
+    "url": "https://top-autonomous-college-in-odisha.gift.edu.in/wp-content/uploads/2023/06/a3.png",
+    "source_page": "https://top-autonomous-college-in-odisha.gift.edu.in/",
+    "local_path": "assets/achievements/conference.png",
+    "review": "Historical achievement photo; verify date, claims and permissions"
+  },
+  {
+    "id": "robofest",
+    "category": "achievements",
+    "kind": "image",
+    "url": "https://top-autonomous-college-in-odisha.gift.edu.in/wp-content/uploads/2023/06/a5.png",
+    "source_page": "https://top-autonomous-college-in-odisha.gift.edu.in/",
+    "local_path": "assets/achievements/robofest.png",
+    "review": "Historical achievement photo; verify date, claims and permissions"
+  },
+  {
+    "id": "youth-parliament",
+    "category": "events",
+    "kind": "image",
+    "url": "https://top-autonomous-college-in-odisha.gift.edu.in/wp-content/uploads/2025/05/youth-parliament-at-gift-engineering-college.png",
+    "source_page": "https://top-autonomous-college-in-odisha.gift.edu.in/",
+    "local_path": "assets/events/youth-parliament.png",
+    "review": "Historical collage; verify event date and photo rights"
+  },
+  {
+    "id": "student-awards",
+    "category": "events",
+    "kind": "image",
+    "url": "https://college.gift.edu.in/website/images/IMG_8376.webp",
+    "source_page": "https://college.gift.edu.in/website/",
+    "local_path": "assets/events/student-awards.webp",
+    "review": "Legacy event image; private prototype only pending permission"
+  },
+  {
+    "id": "classroom",
+    "category": "events",
+    "kind": "image",
+    "url": "https://college.gift.edu.in/website/images/IMG_5978.webp",
+    "source_page": "https://college.gift.edu.in/website/",
+    "local_path": "assets/events/classroom.webp",
+    "review": "Legacy event image; private prototype only pending permission"
+  },
+  {
+    "id": "cultural-event",
+    "category": "events",
+    "kind": "image",
+    "url": "https://college.gift.edu.in/website/images/IMG_5412.webp",
+    "source_page": "https://college.gift.edu.in/website/",
+    "local_path": "assets/events/cultural-event.webp",
+    "review": "Legacy event image; private prototype only pending permission"
+  },
+  {
+    "id": "student-activities",
+    "category": "events",
+    "kind": "image",
+    "url": "https://college.gift.edu.in/website/images/espresso-1.webp",
+    "source_page": "https://college.gift.edu.in/website/",
+    "local_path": "assets/events/student-activities.webp",
+    "review": "Legacy event image; private prototype only pending permission"
+  },
+  {
+    "id": "admission-banner",
+    "category": "reference",
+    "kind": "image",
+    "url": "https://top-autonomous-college-in-odisha.gift.edu.in/wp-content/uploads/2023/08/12023-e1691263865609.jpg",
+    "source_page": "https://top-autonomous-college-in-odisha.gift.edu.in/",
+    "local_path": "assets/reference/admission-banner.jpg",
+    "review": "2026–27 banner; verify claims and campaign dates; do not copy as current automatically"
+  },
+  {
+    "id": "placement-banner",
+    "category": "reference",
+    "kind": "image",
+    "url": "https://top-autonomous-college-in-odisha.gift.edu.in/wp-content/uploads/2023/08/52023-e1691263820109.jpg",
+    "source_page": "https://top-autonomous-college-in-odisha.gift.edu.in/",
+    "local_path": "assets/reference/placement-banner.jpg",
+    "review": "2023–24 banner; historical only; not current placement figures"
+  },
+  {
+    "id": "college-brochure",
+    "category": "documents",
+    "kind": "pdf",
+    "url": "https://top-autonomous-college-in-odisha.gift.edu.in/wp-content/uploads/2023/06/gift-college-bhubaneswar.pdf",
+    "source_page": "https://top-autonomous-college-in-odisha.gift.edu.in/",
+    "local_path": "assets/documents/college-brochure.pdf",
+    "review": "Reference only; review entire document before redistribution"
+  },
+  {
+    "id": "academic-regulations",
+    "category": "documents",
+    "kind": "pdf",
+    "url": "https://top-autonomous-college-in-odisha.gift.edu.in/wp-content/uploads/2024/11/Academic-Regulations_GIFT_wef-AY-2022-23-2.pdf",
+    "source_page": "https://top-autonomous-college-in-odisha.gift.edu.in/academic-regulations-2024-25/",
+    "local_path": "assets/documents/academic-regulations.pdf",
+    "review": "Effective AY 2022–23 per document listing; verify latest regulations; review before redistribution"
+  },
+  {
+    "id": "mandatory-disclosure",
+    "category": "documents",
+    "kind": "pdf",
+    "url": "https://top-autonomous-college-in-odisha.gift.edu.in/wp-content/uploads/2023/06/MANDATORY-DISCLOSURE-GIFT-ENGINEERING-COLLEGE.pdf",
+    "source_page": "https://top-autonomous-college-in-odisha.gift.edu.in/mandatory-disclosure/",
+    "local_path": "assets/documents/mandatory-disclosure.pdf",
+    "review": "Historical disclosure reference; review for private information before redistribution"
+  }
+]

@@ -1,0 +1,272 @@
+{
+  "collection_date": "2026-11-18",
+  "status": "Public-source reference, unofficial private proposal. College confirmation required before publication.",
+  "institution": {
+    "name": "Gandhi Institute for Technology (GIFT) Autonomous",
+    "location": "Bhubaneswar, Odisha, India",
+    "founded": 2007,
+    "trust": "Balaram Panda Trust",
+    "tagline": "In Pursuit of Excellence",
+    "public_email": "info@gift.edu.in",
+    "public_phone": "+91 7873008163",
+    "postal_code": "752054",
+    "sources": [
+      "https://top-autonomous-college-in-odisha.gift.edu.in/about-the-institute/",
+      "https://top-autonomous-college-in-odisha.gift.edu.in/principals-message/",
+      "https://top-autonomous-college-in-odisha.gift.edu.in/"
+    ]
+  },
+  "about_draft": "Established in 2007 by the Balaram Panda Trust, GIFT Autonomous is an institution in Bhubaneswar offering education in engineering, computing, management and research. The institution promotes academic learning, research, innovation and professional development.",
+  "vision_summary": "Develop intellectually and professionally capable graduates through quality education, innovation and research.",
+  "mission_summary": [
+    "Promote collaborative technical research and innovation.",
+    "Support environmentally responsible entrepreneurship.",
+    "Prepare responsible graduates able to address societal needs.",
+    "Develop specialised centres of excellence."
+  ],
+  "vision_source": "https://top-autonomous-college-in-odisha.gift.edu.in/vision-and-mission/",
+  "leadership": [
+    {
+      "role": "Principal",
+      "name_as_published": "Dr. Chitta Ranjan Mohanty",
+      "source": "https://top-autonomous-college-in-odisha.gift.edu.in/principals-message/",
+      "asset": "leadership/principal-photo",
+      "review": "Confirm current appointment and photo."
+    },
+    {
+      "role": "Chairman",
+      "source": "https://top-autonomous-college-in-odisha.gift.edu.in/chairmans-message/",
+      "asset": "leadership/chairman-photo",
+      "review": "Confirm identity, role and approved message."
+    }
+  ],
+  "history": [
+    {
+      "year": 2007,
+      "event": "Institution founded; AICTE approval letter cited as dated 6 July 2007.",
+      "source": "https://top-autonomous-college-in-odisha.gift.edu.in/about-the-institute/"
+    },
+    {
+      "year": 2012,
+      "event": "Remote centre relationship with IIT Bombay and IIT Kharagpur, as reported on legacy site.",
+      "source": "https://college.gift.edu.in/website/"
+    },
+    {
+      "year": 2013,
+      "event": "Technical institute award at Capital Education Fair, as reported by college.",
+      "source": "https://college.gift.edu.in/website/"
+    },
+    {
+      "year": 2015,
+      "event": "IQAC established 14 July; college also cites Eduquest award.",
+      "source": "https://top-autonomous-college-in-odisha.gift.edu.in/iqac/",
+      "additional_source": "https://college.gift.edu.in/website/"
+    },
+    {
+      "year": 2018,
+      "event": "Eduquest technology-utilisation award cited on legacy site.",
+      "source": "https://college.gift.edu.in/website/"
+    },
+    {
+      "year": 2019,
+      "event": "ISTE Odisha-section engineering college award reported.",
+      "source": "https://college.gift.edu.in/website/"
+    },
+    {
+      "year": 2021,
+      "event": "ISTE Gandhi Award; ARIIA 2021–22 Band Excellent reported (29 December 2021).",
+      "source": "https://college.gift.edu.in/website/"
+    },
+    {
+      "year": 2025,
+      "event": "Learning initiative and skill development award at ArdorComm summit reported.",
+      "source": "https://top-autonomous-college-in-odisha.gift.edu.in/"
+    }
+  ],
+  "campus_features": [
+    {
+      "name": "Academic building and laboratories",
+      "source": "https://top-autonomous-college-in-odisha.gift.edu.in/infrastructure/"
+    },
+    {
+      "name": "Residential hostels",
+      "description": "Wi-Fi, backup power, recreation and security facilities listed.",
+      "source": "https://top-autonomous-college-in-odisha.gift.edu.in/in-campus-hostels/"
+    },
+    {
+      "name": "Library",
+      "description": "Books, journals, Scholar Cell and reading space.",
+      "source": "https://top-autonomous-college-in-odisha.gift.edu.in/digital-library/"
+    },
+    {
+      "name": "Gym and sports",
+      "source": "https://top-autonomous-college-in-odisha.gift.edu.in/gymnasium-and-sports/"
+    },
+    {
+      "name": "Technical and hobby clubs",
+      "source": "https://top-autonomous-college-in-odisha.gift.edu.in/hobby-clubs/"
+    }
+  ],
+  "departments": [
+    {
+      "name": "Computer Science and Engineering",
+      "url": "https://top-autonomous-college-in-odisha.gift.edu.in/cse/"
+    },
+    {
+      "name": "Mechanical Engineering",
+      "url": "https://top-autonomous-college-in-odisha.gift.edu.in/mech/"
+    },
+    {
+      "name": "Electronics and Communication Engineering",
+      "url": "https://top-autonomous-college-in-odisha.gift.edu.in/ece/"
+    },
+    {
+      "name": "Electrical and Electronics Engineering",
+      "url": "https://top-autonomous-college-in-odisha.gift.edu.in/eee/"
+    },
+    {
+      "name": "Civil Engineering",
+      "url": "https://college.gift.edu.in/website/civil/index.shtml"
+    }
+  ],
+  "department_copy": [
+    {
+      "name": "CSE",
+      "summary": "Computing education combines theoretical foundations with practical learning and innovation.",
+      "labs": [
+        "Programming in C",
+        "Computer Networks",
+        "Computer Graphics"
+      ],
+      "source": "https://top-autonomous-college-in-odisha.gift.edu.in/cse/facilities/"
+    },
+    {
+      "name": "Mechanical Engineering",
+      "published_established_year": 2009,
+      "summary": "Department offering undergraduate mechanical engineering education.",
+      "source": "https://top-autonomous-college-in-odisha.gift.edu.in/mech/"
+    }
+  ],
+  "social_links": {
+    "instagram": "https://www.instagram.com/gift.autonomous.bhubaneswar/",
+    "youtube": "https://www.youtube.com/@GIFTAutonomousBBSR",
+    "facebook": "https://www.facebook.com/gift.edu.in/",
+    "linkedin": "https://www.linkedin.com/in/gandhi-institute-for-technology-gift-autonomous-70942079/",
+    "source": "https://top-autonomous-college-in-odisha.gift.edu.in/",
+    "note": "Links from homepage; social fetch restricted. Use official embeds after permissions; no scraped videos."
+  },
+  "achievements": [
+    {
+      "label": "NAAC A++",
+      "source": "https://top-autonomous-college-in-odisha.gift.edu.in/about-the-institute/",
+      "review": "Verify validity, grade and certificate."
+    },
+    {
+      "label": "NBA accredited programmes",
+      "source": "https://top-autonomous-college-in-odisha.gift.edu.in/about-the-institute/",
+      "review": "Verify accredited programmes and validity."
+    },
+    {
+      "label": "Scientific and Industrial Research Organization (SIRO)",
+      "source": "https://top-autonomous-college-in-odisha.gift.edu.in/about-the-institute/",
+      "review": "Verify status."
+    },
+    {
+      "label": "Youth Parliament (17th edition)",
+      "source": "https://top-autonomous-college-in-odisha.gift.edu.in/",
+      "review": "Historical example; verify date."
+    }
+  ],
+  "claims_to_verify": [
+    {
+      "field": "Campus area",
+      "sources": [
+        {
+          "value": "8.1 acres",
+          "url": "https://top-autonomous-college-in-odisha.gift.edu.in/infrastructure/"
+        },
+        {
+          "value": "12 acres",
+          "url": "https://top-autonomous-college-in-odisha.gift.edu.in/academic-statistics/"
+        }
+      ],
+      "action": "Do not display an acreage until reconciled."
+    },
+    {
+      "field": "Placement rate",
+      "sources": [
+        {
+          "value": "98%",
+          "url": "https://top-autonomous-college-in-odisha.gift.edu.in/"
+        },
+        {
+          "value": "94.3% historical banner",
+          "url": "https://top-autonomous-college-in-odisha.gift.edu.in/wp-content/uploads/2023/08/52023-e1691263820109.jpg"
+        }
+      ],
+      "action": "Use only a verified year-specific figure or omit."
+    },
+    {
+      "field": "ISO",
+      "sources": [
+        {
+          "value": "9001:2008",
+          "url": "https://top-autonomous-college-in-odisha.gift.edu.in/about-the-institute/"
+        },
+        {
+          "value": "9001:2018 (as printed)",
+          "url": "https://top-autonomous-college-in-odisha.gift.edu.in/chairmans-message/"
+        }
+      ],
+      "action": "Omit conflicting claim until certificate verified."
+    },
+    {
+      "field": "NAAC",
+      "sources": [
+        {
+          "value": "A++",
+          "url": "https://top-autonomous-college-in-odisha.gift.edu.in/about-the-institute/"
+        },
+        {
+          "value": "A (older message)",
+          "url": "https://top-autonomous-college-in-odisha.gift.edu.in/chairmans-message/"
+        }
+      ],
+      "action": "Confirm actual current grade and validity."
+    },
+    {
+      "field": "Library",
+      "sources": [
+        {
+          "value": "33,000+ books",
+          "url": "https://top-autonomous-college-in-odisha.gift.edu.in/digital-library/"
+        }
+      ],
+      "action": "Confirm latest count and date."
+    },
+    {
+      "field": "ARIIA rank",
+      "sources": [
+        {
+          "value": "29th and Band Excellent for 2021–22",
+          "url": "https://college.gift.edu.in/website/"
+        },
+        {
+          "value": "26 on MBA card",
+          "url": "https://top-autonomous-college-in-odisha.gift.edu.in/"
+        }
+      ],
+      "action": "Avoid inconsistent rankings until verified."
+    }
+  ],
+  "portal_links": {
+    "apply": "https://apply.top-autonomous-college-in-odisha.gift.edu.in/",
+    "reporting": "https://gift.edu.in/admission/",
+    "timetable": "https://timetable.gift.edu.in/",
+    "faculty_timetable": "https://mytimetable.gift.edu.in/",
+    "room_timetable": "https://rooms.gift.edu.in/",
+    "college_cms_excluded": "https://cms.gift.edu.in/",
+    "private_alumni_excluded": "https://alumni.gift.edu.in/",
+    "quiz_excluded": "https://www.quiz.gift.edu.in/"
+  }
+}

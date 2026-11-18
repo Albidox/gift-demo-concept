@@ -1,69 +1,34 @@
 import Image from "next/image";
+import Link from "next/link";
+import { ArrowRight, ArrowUpRight } from "lucide-react";
+import { NoticeFeed } from "@/components/notice-feed";
+import content from "@/data/institution-content.json";
 
 export default function Home() {
-  return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert h-5 w-[100px]"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the{" "}
-            <code className="rounded bg-black/[.06] px-1.5 py-0.5 font-mono text-[0.9em] dark:bg-white/[.08]">
-              page.tsx
-            </code>{" "}
-            file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
-          </p>
-        </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert h-[14px] w-4"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={14}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
-        </div>
-      </main>
-    </div>
-  );
+  return <>
+    <section className="hero"><div className="hero-grid">
+      <div className="hero-copy"><p className="eyebrow">Gandhi Institute for Technology · Bhubaneswar</p><h1 className="display">Ideas take shape <em>here.</em></h1><p>Explore an academic community built around engineering, computing, management and the pursuit of new possibilities.</p><div className="hero-actions"><Link href="/programmes" className="button">Explore programmes <ArrowRight size={17} /></Link><Link href="/departments/cse" className="button button-outline">Discover CSE <ArrowUpRight size={16} /></Link></div></div>
+      <div className="hero-image"><Image src="/gift/campus-main.jpg" alt="The academic building at GIFT Autonomous in Bhubaneswar" fill priority sizes="(max-width: 760px) 100vw, 52vw" /><span className="hero-caption">GIFT campus · Bhubaneswar</span></div>
+    </div><div className="hero-rule" /></section>
+
+    <div className="notice-band"><div className="container notice-band-inner"><span className="notice-label">On the horizon</span><span className="notice-message"><strong>Discover GIFT Autonomous.</strong> Explore programmes, campus life and a preview of what a connected digital experience could feel like.</span><Link href="/programmes">Start exploring <ArrowRight size={14} style={{display:"inline"}} /></Link></div></div>
+
+    <section className="section statement"><div className="container"><div className="statement-grid"><h2 className="display">Learning with purpose. Building with possibility.</h2><div className="statement-copy"><p>{content.about_draft}</p><p>Across classrooms, laboratories and student communities, the emphasis is on learning by doing and finding room to grow.</p><div className="feature-points"><span>Engineering</span><span>Computing</span><span>Management</span><span>Research</span></div></div></div><div className="reference-row"><article><h3>Recognition & quality</h3><p>GIFT publishes institutional quality information on its official site. Specific grades, badges and validity periods are not reproduced in this concept pending confirmation.</p></article><article><h3>Career pathways</h3><p>Professional development is part of the institution’s published mission. Current placement outcomes and recruiter claims are intentionally left to verified official sources.</p></article></div></div></section>
+
+    <section className="section programmes-section"><div className="container"><div className="section-head"><div><h2 className="display">Find a direction that feels like yours.</h2><p>Explore the public-source programme reference collected for this concept. Current offerings and admission details require GIFT confirmation.</p></div><Link href="/programmes" className="text-link">View all programmes <ArrowRight size={16} /></Link></div><div className="programme-preview">
+      <article className="programme-tile"><span className="number">Undergraduate</span><h3>Engineering & technology</h3><p>Explore branches from computer science to core engineering disciplines.</p><Link href="/programmes" className="text-link">Explore B.Tech <ArrowRight size={15} /></Link></article>
+      <article className="programme-tile"><span className="number">Professional studies</span><h3>Computing & management</h3><p>See pathways in applications, business and related fields.</p><Link href="/programmes" className="text-link">Explore options <ArrowRight size={15} /></Link></article>
+      <article className="programme-tile"><span className="number">Advanced study</span><h3>Go further in your field</h3><p>Browse postgraduate and research listings in the collected dataset.</p><Link href="/programmes" className="text-link">Explore further <ArrowRight size={15} /></Link></article>
+    </div></div></section>
+
+    <section className="section"><div className="container story-grid"><div className="story-image"><Image src="/gift/hostel.jpg" alt="Residential building and greenery on the GIFT campus" fill sizes="(max-width: 760px) 100vw, 45vw" /></div><div className="story-copy"><span className="eyebrow" style={{color:"var(--red)"}}>A place to belong</span><h2 className="display">More than a campus.</h2><p>Established in 2007 by the Balaram Panda Trust, GIFT Autonomous is based in Bhubaneswar, Odisha. Its campus brings academic spaces, laboratories, a library, residential facilities and student activities together.</p><p>This is a visual direction for telling that story with clarity and character—not a replacement for the institution’s official information.</p><Link href="/departments/cse" className="text-link">See the CSE department <ArrowRight size={16} /></Link></div></div></section>
+
+    <section className="section highlights"><div className="container"><div className="section-head"><div><h2 className="display">Where learning meets doing.</h2><p>Student projects, technical exploration and professional development form part of the broader GIFT story.</p></div></div><div className="highlights-grid"><div className="highlight-feature"><Image src="/gift/hackathon.png" alt="GIFT students presenting a team project at a hackathon" fill sizes="(max-width: 760px) 100vw, 35vw" /><div><h3>Ideas in action</h3><p>Project and innovation activity, as shown in public GIFT imagery.</p></div></div><div className="highlight-feature"><Image src="/gift/solar-car.png" alt="Students and visitors gathered around a solar car project" fill sizes="(max-width: 760px) 100vw, 32vw" /><div><h3>Learning beyond lectures</h3><p>Hands-on exploration across disciplines.</p></div></div><div className="highlight-note"><div><h3>Make room for what comes next.</h3><p>Explore the public information on GIFT’s academic environment and campus facilities. Accreditation and placement claims are intentionally omitted here pending institutional verification.</p></div><a className="text-link" href="https://top-autonomous-college-in-odisha.gift.edu.in/" target="_blank" rel="noreferrer">Visit official GIFT website <ArrowUpRight size={15} /></a></div></div></div></section>
+
+    <section id="life" className="section"><div className="container"><div className="section-head"><div><h2 className="display">Life at GIFT, in moments.</h2><p>Real glimpses of students, events and shared experiences from the local public-source image collection.</p></div></div><div className="life-grid"><div className="life-main"><Image src="/gift/cultural-event.webp" alt="Students performing at a GIFT cultural event" fill sizes="(max-width: 760px) 100vw, 60vw" /><span className="life-caption">Culture and expression</span></div><div className="life-side"><div><Image src="/gift/student-activities.webp" alt="A group of students taking part in campus activities" fill sizes="(max-width: 760px) 50vw, 30vw" /><span className="life-caption">Community</span></div><div><Image src="/gift/student-awards.webp" alt="GIFT students holding awards at an event" fill sizes="(max-width: 760px) 50vw, 30vw" /><span className="life-caption">Achievement</span></div></div></div><div className="life-links"><a className="text-link" href={content.social_links.instagram} target="_blank" rel="noreferrer">Official Instagram <ArrowUpRight size={16} /></a><a className="text-link" href={content.social_links.youtube} target="_blank" rel="noreferrer">Official YouTube <ArrowUpRight size={16} /></a></div></div></section>
+
+    <section id="notices" className="section notice-section"><div className="container"><div className="section-head"><div><h2 className="display">Campus notes & next steps.</h2><p>Sample editorial content and browser-local notices only. No live institutional notice feed is connected.</p></div><Link href="/admin" className="text-link">Try the admin preview <ArrowRight size={16} /></Link></div><NoticeFeed /></div></section>
+
+    <section className="cta-section"><div className="container cta-grid"><div><h2 className="display">Begin with a question.</h2><p>Explore the concept, then connect with GIFT through its official channels for current information.</p></div><a className="button button-light" href="mailto:info@gift.edu.in">Contact GIFT <ArrowUpRight size={16} /></a></div></section>
+  </>;
 }
