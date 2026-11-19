@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import Image from "next/image";
+import { Image } from "@/components/local-image";
 import Link from "next/link";
 import { ArrowRight, ArrowUpRight } from "lucide-react";
 import content from "@/data/institution-content.json";

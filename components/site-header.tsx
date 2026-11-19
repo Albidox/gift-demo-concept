@@ -1,6 +1,6 @@
 "use client";
 
-import Image from "next/image";
+import { Image } from "@/components/local-image";
 import Link from "next/link";
 import { Menu, X } from "lucide-react";
 import { usePathname } from "next/navigation";
@@ -18,7 +18,7 @@ export function SiteHeader() {
   const [open, setOpen] = useState(false);
   const path = usePathname();
   return <>
-    <div className="demo-strip"><div className="container"><span><strong>UNOFFICIAL CONCEPT</strong> · Private frontend preview by Quadvexa</span><span className="utility"><a href="https://cms.gift.edu.in/" target="_blank" rel="noreferrer">Official student CMS ↗</a> &nbsp; · &nbsp; <a href="https://timetable.gift.edu.in/" target="_blank" rel="noreferrer">Official timetable ↗</a></span></div></div>
+    <div className="demo-strip"><div className="container"><span><strong>UNOFFICIAL CONCEPT</strong> · Frontend preview by Quadvexa</span><span className="utility"><a href="https://cms.gift.edu.in/" target="_blank" rel="noreferrer">Official student CMS ↗</a> &nbsp; · &nbsp; <a href="https://timetable.gift.edu.in/" target="_blank" rel="noreferrer">Official timetable ↗</a></span></div></div>
     <header className="site-header"><div className="container header-main">
       <Link className="brand" href="/" onClick={() => setOpen(false)}>
         <Image src="/gift/gift-logo.png" alt="" width={58} height={66} priority />

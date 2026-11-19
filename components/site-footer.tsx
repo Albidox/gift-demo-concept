@@ -1,4 +1,4 @@
-import Image from "next/image";
+import { Image } from "@/components/local-image";
 import Link from "next/link";
 
 export function SiteFooter() {

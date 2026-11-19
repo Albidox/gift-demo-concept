@@ -1,4 +1,4 @@
-import Image from "next/image";
+import { Image } from "@/components/local-image";
 import Link from "next/link";
 import { ArrowRight, ArrowUpRight } from "lucide-react";
 import { NoticeFeed } from "@/components/notice-feed";

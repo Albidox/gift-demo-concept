@@ -2,7 +2,7 @@
 
 **Prepared for:** Quadvexa pre-sales discussion  
 **Date:** 19 November 2026  
-**Status:** Unofficial frontend concept. Static public preview; not a production institutional service.
+**Status:** Unofficial frontend concept for GitHub Pages; not a production institutional service.
 
 ## Delivered
 
@@ -22,6 +22,7 @@
 ## Verification
 
 - `npm run build`: passed; all four pages statically prerendered.
+- GitHub Pages export uses a `/gift-demo-concept` path prefix and trailing-slash routes; `deploy-pages.ps1` publishes the generated `gh-pages` branch.
 - `npx tsc --noEmit`: passed.
 - `npm run lint`: passed.
 - Playwright with installed Microsoft Edge at 1440×900 desktop and 390×844 mobile: navigation, mobile menu, search/filter (27 total; eight B.Tech; three “computer” B.Tech results), expandable details, CSE labs, local notice publish/public view/reset and empty search state passed.
