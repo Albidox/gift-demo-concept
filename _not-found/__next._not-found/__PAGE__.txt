@@ -1,0 +1,37 @@
+1:"$Sreact.fragment"
+2:"/gift-demo-concept/_next/static/chunks/3qfy96eoyh-ek.js"
+3:"/gift-demo-concept/_next/static/chunks/3hop055s8pdsi.js"
+4:I[48303,["$2","$3"],"SiteHeader"]
+5:I[39756,["$2","$3"],"default"]
+6:I[37457,["$2","$3"],"default"]
+7:I[22016,["$2","$3"],""]
+8:I[5500,["$2","$3"],"Image"]
+13:"ViewportBoundary"
+14:I[97367,["$2","$3"],"$13"]
+15:"MetadataBoundary"
+16:I[97367,["$2","$3"],"$15"]
+17:"$Sreact.suspense"
+:HL["/gift-demo-concept/_next/static/chunks/083_wkc656rno.css","style"]
+a:X
+d:X
+d:C
+e:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:t:t:d:r:props:children:1:props:children:props:children:2:props:children:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],"$Lf","$L10"]}]}]],null,"$L11"]}],"p":"$@12","v":null,"s":"$a"}}]]
+b:[["children",{"s":"/_not-found","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@c","v":"$d","s":"$a"},"c":"$Qe"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/gift-demo-concept/_next/static/chunks/083_wkc656rno.css","precedence":"next"}],["$","script","script-0",{"src":"/gift-demo-concept/_next/static/chunks/3qfy96eoyh-ek.js","async":true}],["$","script","script-1",{"src":"/gift-demo-concept/_next/static/chunks/3hop055s8pdsi.js","async":true}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","a",null,{"className":"skip-link","href":"#main","children":"Skip to content"}],["$","$L4",null,{}],["$","main",null,{"id":"main","children":["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}],["$","footer",null,{"className":"footer","children":["$","div",null,{"className":"container","children":[["$","div",null,{"className":"footer-grid","children":[["$","div",null,{"className":"footer-brand","children":[["$","$L7",null,{"className":"brand","href":"/","children":[["$","$L8",null,{"src":"/gift-demo-concept/gift/gift-logo.png","alt":"","width":58,"height":66}],["$","span",null,{"className":"brand-text","children":[["$","b",null,{"children":"GIFT"}],["$","small",null,{"children":"Autonomous · Bhubaneswar"}]]}]]}],["$","p",null,{"children":"An unofficial design concept prepared for a GIFT management discussion. Not an institutional website or live service."}]]}],["$","div",null,{"children":[["$","h3",null,{"children":"Explore"}],["$","div",null,{"className":"footer-links","children":[["$","$L7",null,{"href":"/","children":"Home"}],["$","$L7",null,{"href":"/programmes","children":"Programmes"}],["$","$L7",null,{"href":"/departments/cse","children":"CSE Department"}],["$","$L7",null,{"href":"/admin","children":"Admin preview"}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"children":"Official resources ↗"}],["$","div",null,{"className":"footer-links","children":[["$","a",null,{"href":"https://top-autonomous-college-in-odisha.gift.edu.in/","target":"_blank","rel":"noreferrer","children":"Institution website"}],["$","a",null,{"href":"https://timetable.gift.edu.in/","target":"_blank","rel":"noreferrer","children":"Timetable portal"}],["$","a",null,{"href":"https://cms.gift.edu.in/","target":"_blank","rel":"noreferrer","children":"Student CMS"}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"children":"Connect"}],["$","div",null,{"className":"footer-links","children":[["$","a",null,{"href":"mailto:info@gift.edu.in","children":"info@gift.edu.in"}],["$","a",null,{"href":"https://www.instagram.com/gift.autonomous.bhubaneswar/","target":"_blank","rel":"noreferrer","children":"Instagram ↗"}],["$","a",null,{"href":"https://www.youtube.com/@GIFTAutonomousBBSR","target":"_blank","rel":"noreferrer","children":"YouTube ↗"}]]}]]}]]}],["$","div",null,{"className":"footer-bottom","children":[["$","span",null,{"children":"© GIFT concept preview · Quadvexa · Unofficial proposal"}],["$","span",null,{"children":"GIFT imagery sourced from public pages; provenance in the project repository."}]]}]]}]}]]}]}]]}],"p":"$@9","v":null,"s":"$a"},"c":"$Qb"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L14",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L16",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$17",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"GIFT Autonomous — Concept Preview"}],["$","meta","1",{"name":"description","content":"An unofficial frontend concept for Gandhi Institute for Technology (GIFT) Autonomous, prepared by Quadvexa."}],"$L18","$L19","$L1a"]}]}],null]}],null]}],"p":"$@1b","v":null,"s":"$a"}},"a":"$@1c","u":"$@1d","b":"gpv_E5CLlr2oNAzA1Jr0p"}
+1e:I[97367,["$2","$3"],"OutletBoundary"]
+20:I[27201,["$2","$3"],"IconMark"]
+f:["$","h1",null,{"className":"next-error-h1","style":"$0:t:t:d:r:props:children:1:props:children:props:children:2:props:children:props:notFound:0:1:props:children:props:children:1:props:style","children":404}]
+10:["$","div",null,{"style":"$0:t:t:d:r:props:children:1:props:children:props:children:2:props:children:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:t:t:d:r:props:children:1:props:children:props:children:2:props:children:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]
+11:["$","$L1e",null,{"children":["$","$17",null,{"name":"Next.MetadataOutlet","children":"$@1f"}]}]
+18:["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]
+19:["$","link","3",{"rel":"icon","href":"/gift-demo-concept/icon.png?icon.3nyem7ts-ombm.png","sizes":"896x1024","type":"image/png"}]
+1a:["$","$L20","4",{}]
+a:300
+1f:null
+1d:true
+a:C
+1c:0
+c:"$undefined"
+9:"$undefined"
+1b:"$undefined"
+12:"$undefined"
